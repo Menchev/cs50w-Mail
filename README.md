@@ -3,7 +3,7 @@ Mail Application
 
 # CS50 Web Programming with Python and JavaScript
 
-## Project: Mail app - a front-end for an email client that makes API calls to send and receive emails.
+## Project: a Mail app - a front-end for an email client that makes API calls to send and receive emails.
 
 ### Features:
 - Sending email
